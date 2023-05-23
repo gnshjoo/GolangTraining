@@ -30,7 +30,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main1() {
 	if x :=42; x == 42  {
 		fmt.Println("001")
 	}
